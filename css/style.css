@@ -201,10 +201,14 @@ color: #FFFFFF;
 margin-top: 200px;
 }
 .cost{
-     
+     margin-right: 100px;
 background-image: url(../img/Rectangle\ 16.png);
     margin: 200px;
     width: 1602px;
     height: 946px;
     border: 1px solid #000;
+}
+.img__ab{
+    width: 80%;
+    
 }
